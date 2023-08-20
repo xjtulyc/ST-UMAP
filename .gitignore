@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+dataset
+dpca_example
+ClusterMap-main
+torch_tsne
+umap
+*.csv
+*.pkl
+*.npy
+*.xlsx
